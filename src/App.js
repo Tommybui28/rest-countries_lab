@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import CountryContainer from './containers/CountryContainer';
 import VisitedCountryList from './components/VisitedCountryList';
 
